@@ -1,0 +1,1 @@
+3 node Apache Kafka cluster using Docker that demonstrates pub-sub messaging, with a Zookeeper ensemble created to manage the Kafka cluster.
